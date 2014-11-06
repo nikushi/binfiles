@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+# Originally this is by @miked
+# http://tech.naviplus.co.jp/2014/01/09/tmuxで複数サーバの同時オペレーション/
+#
 
 if [ -n "$SESSION_NAME" ];then
   session=$SESSION_NAME
